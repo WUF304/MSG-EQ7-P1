@@ -1,7 +1,6 @@
 /*
-Please note that you need to set the ADC resolution to 8 bit for this code.
-It´s faster and you don´t need any postprocessing of the readings.
-Just put analogReadResolution(8); into the setup part.
+need to set the ADC resolution to 8 bit for this code.
+put analogReadResolution(8); into setup
 */
 
 // Get audio spectrum data
